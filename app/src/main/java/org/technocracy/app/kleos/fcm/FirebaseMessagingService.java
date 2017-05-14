@@ -9,9 +9,6 @@ import com.google.firebase.messaging.RemoteMessage;
 
 import org.technocracy.app.kleos.activity.HomeActivity;
 
-/**
- * Created by MOHIT on 15-Sep-16.
- */
 public class FirebaseMessagingService extends com.google.firebase.messaging.FirebaseMessagingService {
 
     private static final String TAG = FirebaseMessagingService.class.getSimpleName();

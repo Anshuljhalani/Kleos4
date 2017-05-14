@@ -1,8 +1,6 @@
 package org.technocracy.app.kleos.fcm;
 
-/**
- * Created by MOHIT on 15-Sep-16.
- */
+
 public class Notification {
 
     String title;

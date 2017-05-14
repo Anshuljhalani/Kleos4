@@ -1,8 +1,6 @@
 package org.technocracy.app.kleos.api;
 
-/**
- * Created by MOHIT on 12-Sep-16.
- */
+
 public class User{
 
     private int uid;

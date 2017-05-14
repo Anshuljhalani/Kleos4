@@ -17,9 +17,7 @@ import org.technocracy.app.kleos.helper.AppController;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by MOHIT on 15-Sep-16.
- */
+
 public class FirebaseInstanceIDService extends FirebaseInstanceIdService {
     private static final String TAG = FirebaseInstanceIDService.class.getSimpleName();
 

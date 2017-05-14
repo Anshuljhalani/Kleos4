@@ -11,9 +11,6 @@ import org.technocracy.app.kleos.activity.LoginActivity;
 import org.technocracy.app.kleos.helper.DatabaseHandler;
 import org.technocracy.app.kleos.helper.SessionManager;
 
-/**
- * Created by MOHIT on 13-Sep-16.
- */
 public class App {
     //EndPoints
     public static final String URL = "http://kleos.pe.hu/kleos_testing/";

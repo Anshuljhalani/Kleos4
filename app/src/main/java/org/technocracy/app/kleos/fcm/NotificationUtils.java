@@ -32,9 +32,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by MOHIT on 15-Sep-16.
- */
+
 public class NotificationUtils  {
     private static String TAG = NotificationUtils.class.getSimpleName();
 
