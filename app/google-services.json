@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "149332972468",
+    "firebase_url": "https://kleos-843c9.firebaseio.com",
+    "project_id": "kleos-843c9",
+    "storage_bucket": "kleos-843c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149332972468:android:bbdf2bb7f3a40369",
+        "android_client_info": {
+          "package_name": "org.technocracy.app.kleos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149332972468-scsvmgkkv7k4r6cecltndj7v8ipf3v9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9r21220zZBfENbIXD8lrV3M98ZNsOj-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kleos</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_activity_updates">Hints/Updates</string>
+</resources>
